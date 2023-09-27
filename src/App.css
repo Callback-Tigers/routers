@@ -1,8 +1,13 @@
-a{
+.navbar1 a{
   background-color: black;
   color: tomato;
 }
-.active{
+/* .navbar1 .active{
   background-color: green;
   color: blue;
+} */
+
+.navbar2 a{
+  background-color: blue;
+  color: green;
 }
